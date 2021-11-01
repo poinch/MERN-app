@@ -1,0 +1,7 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.requireConfig": true,
+  "editor.formatOnSave": true
+}
