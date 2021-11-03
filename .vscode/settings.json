@@ -3,5 +3,6 @@
     "javascript": "javascriptreact"
   },
   "prettier.requireConfig": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false
 }
